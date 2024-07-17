@@ -1,7 +1,7 @@
-name: mihai-conda-dev
+name: luk_codespace
 channels:
  - defaults
 dependencies:
-- python=3
+- python=<python-version>
 - openai
 - python-dotenv
