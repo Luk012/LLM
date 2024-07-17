@@ -1,4 +1,4 @@
-name: mihai-conda-dev
+name: luk_codespace
 channels:
  - defaults
 dependencies:
